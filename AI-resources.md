@@ -107,4 +107,4 @@ This repository contains useful and interesting resources related to AI
 ## Remarkable Books
 
 - Co-Intelligence by Ethan Mollick
-- The World I see by Fei-Fei-Li
+- The Worlds I see by Fei-Fei-Li
