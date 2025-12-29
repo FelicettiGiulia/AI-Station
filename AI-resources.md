@@ -1,5 +1,6 @@
 # AI station
-This repository contains useful and interesting resources related to AI
+- This repository contains useful and interesting resources related to AI
+- This is not for publicity of any kind, just a valuable repository helping me (and hopefully others) to move a little bit better whilst the AI earthquake is ongoing
 
 ## Podcasts
 
@@ -112,9 +113,9 @@ This repository contains useful and interesting resources related to AI
 
 ## Remarkable Books
 
-- Co-Intelligence by Ethan Mollick
-- The Worlds I see by Fei-Fei-Li
-- Etica dell'Intelligenza Artificiale by Luciano Floridi
+- "Co-Intelligence" by Ethan Mollick
+- "The Worlds I see" by Fei-Fei-Li
+- "Etica dell'Intelligenza Artificiale" by Luciano Floridi
 
 ## Remarkable websites
 - https://karpathy.ai/
