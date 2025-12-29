@@ -100,7 +100,7 @@ This repository contains useful and interesting resources related to AI
 
 ## Communities
 
-- [Perplexity Business Fellowship Program](https://www.perplexity.ai/hub/fellowship)
+- [Perplexity Business Fellowship Program](https://www.perplexity.ai/hub/fellowship) (not yet open to public)
 
 ## Valuable courses
 
