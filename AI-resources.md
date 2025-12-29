@@ -31,7 +31,9 @@ This repository contains useful and interesting resources related to AI
 - [AI with ALLIE](https://www.linkedin.com/in/alliekmiller/)
 - [Latent.Space](https://www.latent.space)
 - [Bay Area Times](https://www.bayareatimes.co)
+- [One Useful Thing by Ethan Mollick](https://www.oneusefulthing.org/about)
 - [Datapizza](https://datapizza.tech/en/)
+- [Alessio Pomaro](https://www.alessiopomaro.it)
 - [Ashley Dudarenok](https://www.linkedin.com/in/ashleydudarenok/)
 - [AI Pulse](https://aipulse.beehiiv.com)
 - [Colossus Digital](https://colossus.digital)
@@ -116,3 +118,4 @@ This repository contains useful and interesting resources related to AI
 
 ## Remarkable websites
 - https://karpathy.ai/
+- https://www.alessiopomaro.it/
