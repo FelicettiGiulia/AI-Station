@@ -18,8 +18,12 @@ This repository contains useful and interesting resources related to AI
 
 - [The AI Fellowship](https://www.youtube.com/@TheAIFellowship)
 - [The Feedback Loop](https://www.youtube.com/playlist?list=PLrLY2VO2cgPV9T2IpKBdUEp8aVOs0OkDx)
+- [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown)
 - [Raffaele Gaito](https://www.youtube.com/@RaffaeleGaito)
 - [Datapizza](https://www.youtube.com/@datapizza)
+- [Riccardo Belli Contarini](https://www.youtube.com/@riccardobellicontarini)
+- [Massimiliano Pioli](https://www.youtube.com/channel/UChesRpBEPa2V0KEyg3UGkCQ)
+- [Antonio Guadagno](https://www.youtube.com/@AntonioGuadagnoAI)
 
 ## Newsletters
 
@@ -108,3 +112,7 @@ This repository contains useful and interesting resources related to AI
 
 - Co-Intelligence by Ethan Mollick
 - The Worlds I see by Fei-Fei-Li
+- Etica dell'Intelligenza Artificiale by Luciano Floridi
+
+## Remarkable websites
+- https://karpathy.ai/
