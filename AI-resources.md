@@ -4,9 +4,9 @@
 
 ## Podcasts
 
+- [TIM AI Voices](https://open.spotify.com/show/4o5B52Kta8iIGZdalhG84X?si=gUVXHyywQiCa5E224060Cg)
 - [The AI Daily Brief](https://open.spotify.com/show/7gKwwMLFLc6RmjmRpbMtEO) | [Apple](https://pod.link/1680633614) | [Website](https://aidailybrief.ai)
 - [Latent Space](https://open.spotify.com/show/2p7zZVwVF6Yk0Zsb4QmT7t) | [Apple](https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350) | [Substack](https://www.latent.space/podcast)
-- [TIM AI Voices](https://open.spotify.com/show/4o5B52Kta8iIGZdalhG84X?si=gUVXHyywQiCa5E224060Cg)
 - [Intelligenza Artificiale spiegata semplice](https://open.spotify.com/show/4miitach1TC83baxUns2HH) | [Apple](https://podcasts.apple.com/it/podcast/intelligenza-artificiale-spiegata-semplice/id1453562383) | [Website](https://www.iaspiegatasemplice.it)
 - [Ciao Internet](https://open.spotify.com/show/5q7jh01YLFtru7iqUlj6lu) | [Apple](https://podcasts.apple.com/nz/podcast/ciao-internet-con-matteo-flora/id1046298895) | [YouTube](https://www.youtube.com/channel/UCm5H2LH2ISgpX-X5-SP4Vrg)
 - [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684) | [Website](https://garyvaynerchuk.com/podcast/)
